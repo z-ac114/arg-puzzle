@@ -1,6 +1,6 @@
 {
-  "name": "arg-puzzle",
-  "version": "0.0.1",
+  "name": "esoterica",
+  "version": "0.0.2",
   "description": "A draft web puzzle",
   "main": "index.html",
   "scripts": {

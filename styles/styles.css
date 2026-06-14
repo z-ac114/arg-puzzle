@@ -12,8 +12,13 @@ h1 {
     align-items: center;
     font-size: 70px;
 }
-
 h2 {
+    color: #d2f3ff;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+}
+h3 {
     color: #d2f3ff;
     text-align: center;
     align-items: center;
@@ -26,7 +31,8 @@ p {
 }
 li {
     color: #d2f3ff;
-    font-size: 18px;
+    align-items: center;
+    font-size: 16px;
     margin-bottom: 10px;
 }
 a,

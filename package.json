@@ -1,7 +1,7 @@
 {
-  "name": "my-website",
-  "version": "1.0.0",
-  "description": "A simple HTML website with clean styling",
+  "name": "arg-puzzle",
+  "version": "0.0.1",
+  "description": "A draft web puzzle",
   "main": "index.html",
   "scripts": {
     "start": "open index.html"

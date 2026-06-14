@@ -1,16 +1,10 @@
-# My Website
+# What is this website for?
 
-A simple HTML website with clean styling.
+It's currently going to be a personal project that is going to be used for a ARG puzzle game.
 
-## Files
+## Artificial Intelligence Usage
 
-- `index.html` - Main HTML file
-- `styles.css` - Stylesheet
-
-## How to Use
-
-1. Clone the repository
-2. Open `index.html` in your web browser
+Claude Code has been utilised for the initial setup to create the main framework of the website.
 
 ## License
 

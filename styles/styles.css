@@ -24,7 +24,12 @@ p {
     align-items: center;
     margin-bottom: 20px;
 }
-
+li {
+    color: #d2f3ff;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
 a,
 a:visited,
 a:hover,

@@ -1,12 +1,15 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "routes": [
+  "redirects": [
     {
-      "src": "/((?!(?:$|index\\.html$|404\\.html$|credits\\.html$|assets/|styles/|folder1/(?:inception|atlas|cheese|gruyere|luna|placeholder|rudimentary)\\.htm$)).*)",
-      "status": 307,
-      "headers": {
-        "Location": "/404.html"
-      }
+      "source": "/:path*",
+      "missing": [
+        {
+          "type": "file"
+        }
+      ],
+      "permanent": false,
+      "destination": "/404.html"
     }
   ]
 }

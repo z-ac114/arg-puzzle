@@ -13,7 +13,7 @@ v0.0.2a [15.6.2026]\
 Claude Code was not used to design the background for the website. I looked up how to make a flowing background on google and followed a tutorial.
 
 v0.0.3 [15.6.2026]\
-Claude Code was used to redirect all mispelt website links to 404.html.
+Claude Code was used to setup vercel.json in order to redirect all mispelt website links to 404.html.
 
 ## Patch Notes
 

@@ -25,7 +25,7 @@ v0.0.3
 - Added Credits page
 - Added Music
 - Added 404.html
-- Added level 5
+- Added level 5-6
 ## License
 
 This project is open source and available under the MIT License.

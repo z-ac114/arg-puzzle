@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "routes": [
+    {
+      "src": "/((?!(?:$|index\\.html$|404\\.html$|credits\\.html$|assets/|styles/|folder1/(?:inception|atlas|cheese|gruyere|luna|placeholder|rudimentary)\\.htm$)).*)",
+      "status": 307,
+      "headers": {
+        "Location": "/404.html"
+      }
+    }
+  ]
+}

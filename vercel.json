@@ -5,6 +5,13 @@
       "handle": "filesystem"
     },
     {
+      "src": "/asynartetic/voyage\\.htm$",
+      "status": 307,
+      "headers": {
+        "Location": "/belomancy/voyage.htm"
+      }
+    },
+    {
       "src": "/(.*)",
       "status": 307,
       "headers": {

@@ -34,6 +34,7 @@ v0.0.5
 - Added level 10-11
 - Decided folder names (asynartetic, belomancy)
 - New bg for belomancy
+- Added Icon
 ## License
 
 This project is open source and available under the MIT License.

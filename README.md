@@ -30,6 +30,9 @@ v0.0.3
 v0.0.4
 - Added levels 7-9
 
+v0.0.5
+- Added level 10
+- Decided folder names (asynartetic, belomancy)
 ## License
 
 This project is open source and available under the MIT License.

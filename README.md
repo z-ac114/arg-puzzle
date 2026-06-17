@@ -12,6 +12,9 @@ Claude Code has been utilised to assist me in formatting the website since I can
 v0.0.3 [15.6.2026]\
 Claude Code was used to setup vercel.json and soundcloud-loop.js in order to redirect all mispelt website links to 404.html and loop music.
 
+V0.0.5 [16.6.2026]\
+Claude Code was used to change all the names of paths after I changed names of folders.
+
 ## Patch Notes
 
 v0.0.1
@@ -35,6 +38,11 @@ v0.0.5
 - Decided folder names (asynartetic, belomancy)
 - New bg for belomancy
 - Added Icon
+- Transfered Ownership to z1-c40 
+
+v0.0.6
+- Submitted to #prologue!
+
 ## License
 
 This project is open source and available under the MIT License.
